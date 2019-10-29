@@ -1,5 +1,5 @@
-# moodforest
-
+# MoodForest
+Blockchain Game made during Game Oasis Hackathon San Francisco
 
 ## STEPS TO RUN
 * Install ganache and run it.
